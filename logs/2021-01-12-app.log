@@ -1,0 +1,454 @@
+[2021-01-12 07:28:42] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/dashboard","remote_ip":"::1","correlation_id":"5ffd419a4275b"}
+[2021-01-12 07:28:45] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd419d958cc"}
+[2021-01-12 07:28:45] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd419d958cc"}
+[2021-01-12 07:28:45] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd419d958cc"}
+[2021-01-12 07:28:53] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/SystemSettings.php","remote_ip":"::1","correlation_id":"5ffd41a57f126"}
+[2021-01-12 07:28:55] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd41a72d52f"}
+[2021-01-12 07:28:55] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd41a72d52f"}
+[2021-01-12 07:28:55] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd41a72d52f"}
+[2021-01-12 07:29:19] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/KioskManager.php","remote_ip":"::1","correlation_id":"5ffd41bf8549c"}
+[2021-01-12 07:29:20] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd41c069a9d"}
+[2021-01-12 07:29:20] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd41c069a9d"}
+[2021-01-12 07:29:20] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd41c069a9d"}
+[2021-01-12 07:29:27] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/admin/menus","remote_ip":"::1","correlation_id":"5ffd41c7260c4"}
+[2021-01-12 07:29:28] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd41c82bfdc"}
+[2021-01-12 07:29:28] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd41c82bfdc"}
+[2021-01-12 07:29:28] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd41c82bfdc"}
+[2021-01-12 07:29:53] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/admin/menus","remote_ip":"::1","correlation_id":"5ffd41e15d692"}
+[2021-01-12 07:29:54] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd41e278f4c"}
+[2021-01-12 07:29:54] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd41e278f4c"}
+[2021-01-12 07:29:54] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd41e278f4c"}
+[2021-01-12 08:13:19] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/PropertyTypeList.php","remote_ip":"::1","correlation_id":"5ffd4c0f3d8e5"}
+[2021-01-12 08:13:20] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd4c1082414"}
+[2021-01-12 08:13:20] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd4c1082414"}
+[2021-01-12 08:13:20] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd4c1082414"}
+[2021-01-12 08:13:26] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/SystemSettings.php","remote_ip":"::1","correlation_id":"5ffd4c16113ca"}
+[2021-01-12 08:13:27] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd4c17829d8"}
+[2021-01-12 08:13:27] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd4c17829d8"}
+[2021-01-12 08:13:27] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd4c17829d8"}
+[2021-01-12 08:16:15] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/SystemSettings.php?saved=true","remote_ip":"::1","correlation_id":"5ffd4cbf5d458"}
+[2021-01-12 08:16:16] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd4cc09e514"}
+[2021-01-12 08:16:16] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd4cc09e514"}
+[2021-01-12 08:16:16] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd4cc09e514"}
+[2021-01-12 08:32:19] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/FundRaiserEditor.php?FundRaiserID=-1","remote_ip":"::1","correlation_id":"5ffd50831e966"}
+[2021-01-12 08:32:20] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd508403b58"}
+[2021-01-12 08:32:20] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd508403b58"}
+[2021-01-12 08:32:20] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd508403b58"}
+[2021-01-12 08:32:39] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/FundRaiserEditor.php?linkBack=&FundRaiserID=1","remote_ip":"::1","correlation_id":"5ffd50973870f"}
+[2021-01-12 08:32:40] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd50982db8a"}
+[2021-01-12 08:32:40] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd50982db8a"}
+[2021-01-12 08:32:40] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd50982db8a"}
+[2021-01-12 08:32:42] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/DonatedItemEditor.php?CurrentFundraiser=1&linkBack=FundRaiserEditor.php?FundRaiserID=1&CurrentFundraiser=1","remote_ip":"::1","correlation_id":"5ffd509ab06aa"}
+[2021-01-12 08:32:43] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd509b689e5"}
+[2021-01-12 08:32:43] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd509b689e5"}
+[2021-01-12 08:32:43] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd509b689e5"}
+[2021-01-12 08:33:10] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/DonatedItemEditor.php?CurrentFundraiser=1&linkBack=","remote_ip":"::1","correlation_id":"5ffd50b67a8d8"}
+[2021-01-12 08:33:11] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd50b7412fb"}
+[2021-01-12 08:33:11] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd50b7412fb"}
+[2021-01-12 08:33:11] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd50b7412fb"}
+[2021-01-12 08:33:16] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/PaddleNumList.php?FundRaiserID=","remote_ip":"::1","correlation_id":"5ffd50bce7986"}
+[2021-01-12 08:33:17] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd50bd8b51f"}
+[2021-01-12 08:33:17] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd50bd8b51f"}
+[2021-01-12 08:33:17] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd50bd8b51f"}
+[2021-01-12 08:33:22] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/PaddleNumList.php","remote_ip":"::1","correlation_id":"5ffd50c2c73fd"}
+[2021-01-12 08:33:23] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd50c36ca9c"}
+[2021-01-12 08:33:23] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd50c36ca9c"}
+[2021-01-12 08:33:23] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd50c36ca9c"}
+[2021-01-12 08:33:24] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/FundRaiserEditor.php?FundRaiserID=-1","remote_ip":"::1","correlation_id":"5ffd50c4e589f"}
+[2021-01-12 08:33:25] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd50c5895ec"}
+[2021-01-12 08:33:25] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd50c5895ec"}
+[2021-01-12 08:33:25] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd50c5895ec"}
+[2021-01-12 08:33:26] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/FindFundRaiser.php","remote_ip":"::1","correlation_id":"5ffd50c688d4c"}
+[2021-01-12 08:33:27] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd50c72e47e"}
+[2021-01-12 08:33:27] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd50c72e47e"}
+[2021-01-12 08:33:27] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd50c72e47e"}
+[2021-01-12 08:33:32] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/FundRaiserEditor.php?FundRaiserID=1","remote_ip":"::1","correlation_id":"5ffd50cc46d69"}
+[2021-01-12 08:33:33] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd50cd0a941"}
+[2021-01-12 08:33:33] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd50cd0a941"}
+[2021-01-12 08:33:33] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd50cd0a941"}
+[2021-01-12 08:44:58] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/calendar","remote_ip":"::1","correlation_id":"5ffd537a88f22"}
+[2021-01-12 08:45:01] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd537dcde36"}
+[2021-01-12 08:45:01] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd537dcde36"}
+[2021-01-12 08:45:01] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd537dcde36"}
+[2021-01-12 08:45:09] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/email/dashboard","remote_ip":"::1","correlation_id":"5ffd538551d91"}
+[2021-01-12 08:45:10] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd53861344a"}
+[2021-01-12 08:45:10] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd53861344a"}
+[2021-01-12 08:45:10] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd53861344a"}
+[2021-01-12 08:45:12] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/EventEditor.php","remote_ip":"::1","correlation_id":"5ffd538809afd"}
+[2021-01-12 08:45:13] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd53891ff8e"}
+[2021-01-12 08:45:13] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd53891ff8e"}
+[2021-01-12 08:45:13] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd53891ff8e"}
+[2021-01-12 08:45:23] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/EventNames.php","remote_ip":"::1","correlation_id":"5ffd539382c40"}
+[2021-01-12 08:45:24] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd539464e91"}
+[2021-01-12 08:45:24] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd539464e91"}
+[2021-01-12 08:45:24] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd539464e91"}
+[2021-01-12 08:45:29] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/EventNames.php","remote_ip":"::1","correlation_id":"5ffd53994a079"}
+[2021-01-12 08:45:30] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd539a12d50"}
+[2021-01-12 08:45:30] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd539a12d50"}
+[2021-01-12 08:45:30] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd539a12d50"}
+[2021-01-12 08:45:55] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/Checkin.php","remote_ip":"::1","correlation_id":"5ffd53b3f3047"}
+[2021-01-12 08:45:56] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd53b4b704d"}
+[2021-01-12 08:45:56] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd53b4b704d"}
+[2021-01-12 08:45:56] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd53b4b704d"}
+[2021-01-12 08:45:59] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/sundayschool/SundaySchoolDashboard.php","remote_ip":"::1","correlation_id":"5ffd53b771adc"}
+[2021-01-12 08:46:00] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd53b825632"}
+[2021-01-12 08:46:00] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd53b825632"}
+[2021-01-12 08:46:00] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd53b825632"}
+[2021-01-12 08:46:08] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/CanvassAutomation.php","remote_ip":"::1","correlation_id":"5ffd53c02d9ba"}
+[2021-01-12 08:46:09] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd53c11ca35"}
+[2021-01-12 08:46:09] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd53c11ca35"}
+[2021-01-12 08:46:09] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd53c11ca35"}
+[2021-01-12 08:46:23] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/QueryList.php","remote_ip":"::1","correlation_id":"5ffd53cf4f16a"}
+[2021-01-12 08:46:24] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd53d01225a"}
+[2021-01-12 08:46:24] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd53d01225a"}
+[2021-01-12 08:46:24] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd53d01225a"}
+[2021-01-12 08:46:32] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/FindDepositSlip.php","remote_ip":"::1","correlation_id":"5ffd53d804953"}
+[2021-01-12 08:46:32] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd53d8ddddd"}
+[2021-01-12 08:46:32] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd53d8ddddd"}
+[2021-01-12 08:46:32] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd53d8ddddd"}
+[2021-01-12 08:46:53] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/FinancialReports.php","remote_ip":"::1","correlation_id":"5ffd53ed960df"}
+[2021-01-12 08:46:54] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd53ee8a9a2"}
+[2021-01-12 08:46:54] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd53ee8a9a2"}
+[2021-01-12 08:46:54] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd53ee8a9a2"}
+[2021-01-12 08:46:59] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/FindDepositSlip.php","remote_ip":"::1","correlation_id":"5ffd53f3473b6"}
+[2021-01-12 08:46:59] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd53f3eb3e4"}
+[2021-01-12 08:46:59] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd53f3eb3e4"}
+[2021-01-12 08:46:59] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd53f3eb3e4"}
+[2021-01-12 08:47:03] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/DepositSlipEditor.php?DepositSlipID=1","remote_ip":"::1","correlation_id":"5ffd53f73a0b6"}
+[2021-01-12 08:47:04] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd53f80b887"}
+[2021-01-12 08:47:04] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd53f80b887"}
+[2021-01-12 08:47:04] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd53f80b887"}
+[2021-01-12 08:47:23] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/calendar","remote_ip":"::1","correlation_id":"5ffd540ba2717"}
+[2021-01-12 08:47:24] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd540cccbba"}
+[2021-01-12 08:47:24] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd540cccbba"}
+[2021-01-12 08:47:24] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd540cccbba"}
+[2021-01-12 08:47:26] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/dashboard","remote_ip":"::1","correlation_id":"5ffd540e7a63c"}
+[2021-01-12 08:47:27] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd540f42eb5"}
+[2021-01-12 08:47:27] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd540f42eb5"}
+[2021-01-12 08:47:27] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd540f42eb5"}
+[2021-01-12 08:48:47] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/UserList.php","remote_ip":"::1","correlation_id":"5ffd545f0902a"}
+[2021-01-12 08:48:48] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd54604917a"}
+[2021-01-12 08:48:48] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd54604917a"}
+[2021-01-12 08:48:48] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd54604917a"}
+[2021-01-12 08:48:49] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/SystemSettings.php","remote_ip":"::1","correlation_id":"5ffd5461889ff"}
+[2021-01-12 08:48:51] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd546327097"}
+[2021-01-12 08:48:51] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd546327097"}
+[2021-01-12 08:48:51] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd546327097"}
+[2021-01-12 08:49:25] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/SystemSettings.php?saved=true","remote_ip":"::1","correlation_id":"5ffd548598478"}
+[2021-01-12 08:49:27] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd5487191d5"}
+[2021-01-12 08:49:27] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd5487191d5"}
+[2021-01-12 08:49:27] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd5487191d5"}
+[2021-01-12 08:49:44] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/SystemSettings.php?saved=true","remote_ip":"::1","correlation_id":"5ffd54989f46c"}
+[2021-01-12 08:49:45] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd5499cc296"}
+[2021-01-12 08:49:45] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd5499cc296"}
+[2021-01-12 08:49:45] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd5499cc296"}
+[2021-01-12 08:51:31] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/SystemSettings.php?saved=true","remote_ip":"::1","correlation_id":"5ffd55034fcb1"}
+[2021-01-12 08:51:32] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd55048d4fb"}
+[2021-01-12 08:51:32] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd55048d4fb"}
+[2021-01-12 08:51:32] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd55048d4fb"}
+[2021-01-12 08:51:34] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/dashboard","remote_ip":"::1","correlation_id":"5ffd550631be1"}
+[2021-01-12 08:51:35] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd550716a6e"}
+[2021-01-12 08:51:35] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd550716a6e"}
+[2021-01-12 08:51:35] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd550716a6e"}
+[2021-01-12 08:51:36] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/dashboard","remote_ip":"::1","correlation_id":"5ffd55084e016"}
+[2021-01-12 08:51:37] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd550992e37"}
+[2021-01-12 08:51:37] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd550992e37"}
+[2021-01-12 08:51:37] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd550992e37"}
+[2021-01-12 08:51:43] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/SystemSettings.php","remote_ip":"::1","correlation_id":"5ffd550f51500"}
+[2021-01-12 08:51:44] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd55108607b"}
+[2021-01-12 08:51:44] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd55108607b"}
+[2021-01-12 08:51:44] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd55108607b"}
+[2021-01-12 08:52:12] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/SystemSettings.php?saved=true","remote_ip":"::1","correlation_id":"5ffd552c0f6c5"}
+[2021-01-12 08:52:13] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd552d8a9c8"}
+[2021-01-12 08:52:13] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd552d8a9c8"}
+[2021-01-12 08:52:13] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd552d8a9c8"}
+[2021-01-12 08:52:38] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/SystemSettings.php?saved=true","remote_ip":"::1","correlation_id":"5ffd5546ad7fc"}
+[2021-01-12 08:52:40] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd554818d77"}
+[2021-01-12 08:52:40] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd554818d77"}
+[2021-01-12 08:52:40] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd554818d77"}
+[2021-01-12 08:52:57] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/SystemSettings.php?saved=true","remote_ip":"::1","correlation_id":"5ffd555909737"}
+[2021-01-12 08:52:58] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd555a66a9c"}
+[2021-01-12 08:52:58] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd555a66a9c"}
+[2021-01-12 08:52:58] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd555a66a9c"}
+[2021-01-12 11:28:42] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/dashboard","remote_ip":"::1","correlation_id":"5ffd79dadd4c0"}
+[2021-01-12 11:28:44] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd79dc3cdb9"}
+[2021-01-12 11:28:44] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd79dc3cdb9"}
+[2021-01-12 11:28:44] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd79dc3cdb9"}
+[2021-01-12 11:28:50] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/SystemSettings.php","remote_ip":"::1","correlation_id":"5ffd79e21536f"}
+[2021-01-12 11:28:51] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd79e39961d"}
+[2021-01-12 11:28:51] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd79e39961d"}
+[2021-01-12 11:28:51] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd79e39961d"}
+[2021-01-12 11:28:59] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/SystemSettings.php?saved=true","remote_ip":"::1","correlation_id":"5ffd79eb8c2f6"}
+[2021-01-12 11:29:00] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd79eca5a16"}
+[2021-01-12 11:29:00] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd79eca5a16"}
+[2021-01-12 11:29:00] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd79eca5a16"}
+[2021-01-12 11:29:29] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/dashboard","remote_ip":"::1","correlation_id":"5ffd7a09e1272"}
+[2021-01-12 11:29:30] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd7a0ab48a3"}
+[2021-01-12 11:29:30] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd7a0ab48a3"}
+[2021-01-12 11:29:30] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd7a0ab48a3"}
+[2021-01-12 11:29:37] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/dashboard","remote_ip":"::1","correlation_id":"5ffd7a11ccde0"}
+[2021-01-12 11:29:39] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd7a1362b1a"}
+[2021-01-12 11:29:39] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd7a1362b1a"}
+[2021-01-12 11:29:39] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd7a1362b1a"}
+[2021-01-12 11:29:50] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/SystemSettings.php","remote_ip":"::1","correlation_id":"5ffd7a1e3f479"}
+[2021-01-12 11:29:51] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd7a1f7e121"}
+[2021-01-12 11:29:51] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd7a1f7e121"}
+[2021-01-12 11:29:51] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd7a1f7e121"}
+[2021-01-12 11:30:16] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/SystemSettings.php?saved=true","remote_ip":"::1","correlation_id":"5ffd7a3881455"}
+[2021-01-12 11:30:17] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd7a39b735c"}
+[2021-01-12 11:30:17] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd7a39b735c"}
+[2021-01-12 11:30:17] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd7a39b735c"}
+[2021-01-12 11:30:35] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/SystemSettings.php?saved=true","remote_ip":"::1","correlation_id":"5ffd7a4b3864f"}
+[2021-01-12 11:30:36] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd7a4c7345f"}
+[2021-01-12 11:30:36] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd7a4c7345f"}
+[2021-01-12 11:30:36] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd7a4c7345f"}
+[2021-01-12 11:31:04] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/SystemSettings.php?saved=true","remote_ip":"::1","correlation_id":"5ffd7a68737d2"}
+[2021-01-12 11:31:05] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd7a69ba929"}
+[2021-01-12 11:31:05] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd7a69ba929"}
+[2021-01-12 11:31:05] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd7a69ba929"}
+[2021-01-12 11:31:08] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/dashboard","remote_ip":"::1","correlation_id":"5ffd7a6c3a7df"}
+[2021-01-12 11:31:09] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd7a6d0a2a0"}
+[2021-01-12 11:31:09] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd7a6d0a2a0"}
+[2021-01-12 11:31:09] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd7a6d0a2a0"}
+[2021-01-12 11:31:33] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/SystemSettings.php","remote_ip":"::1","correlation_id":"5ffd7a85808ee"}
+[2021-01-12 11:31:34] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd7a86d2f74"}
+[2021-01-12 11:31:34] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd7a86d2f74"}
+[2021-01-12 11:31:34] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd7a86d2f74"}
+[2021-01-12 11:31:41] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/SystemSettings.php?saved=true","remote_ip":"::1","correlation_id":"5ffd7a8db2293"}
+[2021-01-12 11:31:42] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd7a8edc078"}
+[2021-01-12 11:31:42] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd7a8edc078"}
+[2021-01-12 11:31:42] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd7a8edc078"}
+[2021-01-12 11:31:59] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/SystemSettings.php?saved=true","remote_ip":"::1","correlation_id":"5ffd7a9fd4a60"}
+[2021-01-12 11:32:01] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd7aa12dfbf"}
+[2021-01-12 11:32:01] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd7aa12dfbf"}
+[2021-01-12 11:32:01] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd7aa12dfbf"}
+[2021-01-12 11:46:00] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/SystemSettings.php?saved=true","remote_ip":"::1","correlation_id":"5ffd7de84b45c"}
+[2021-01-12 11:46:22] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/SystemSettings.php?saved=true","remote_ip":"::1","correlation_id":"5ffd7dfe8ab88"}
+[2021-01-12 11:46:23] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd7dffe44d3"}
+[2021-01-12 11:46:23] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd7dffe44d3"}
+[2021-01-12 11:46:23] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd7dffe44d3"}
+[2021-01-12 12:42:25] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/SystemSettings.php?saved=true","remote_ip":"::1","correlation_id":"5ffd8b21934ba"}
+[2021-01-12 12:42:28] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8b24af323"}
+[2021-01-12 12:42:28] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8b24af323"}
+[2021-01-12 12:42:31] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8b24af323"}
+[2021-01-12 12:42:44] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/SystemSettings.php?saved=true","remote_ip":"::1","correlation_id":"5ffd8b34eaee4"}
+[2021-01-12 12:42:46] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8b36b5cd1"}
+[2021-01-12 12:42:46] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8b36b5cd1"}
+[2021-01-12 12:42:46] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8b36b5cd1"}
+[2021-01-12 12:42:59] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/SystemSettings.php?saved=true","remote_ip":"::1","correlation_id":"5ffd8b43ac799"}
+[2021-01-12 12:43:01] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8b451588f"}
+[2021-01-12 12:43:01] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8b451588f"}
+[2021-01-12 12:43:01] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8b451588f"}
+[2021-01-12 12:45:25] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/SystemSettings.php?saved=true","remote_ip":"::1","correlation_id":"5ffd8bd54d199"}
+[2021-01-12 12:45:26] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8bd6e8346"}
+[2021-01-12 12:45:26] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8bd6e8346"}
+[2021-01-12 12:45:26] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8bd6e8346"}
+[2021-01-12 12:45:34] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/SystemSettings.php?saved=true","remote_ip":"::1","correlation_id":"5ffd8bde70a4b"}
+[2021-01-12 12:45:36] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8be02317b"}
+[2021-01-12 12:45:36] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8be02317b"}
+[2021-01-12 12:45:36] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8be02317b"}
+[2021-01-12 12:45:37] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/email/dashboard","remote_ip":"::1","correlation_id":"5ffd8be1d815b"}
+[2021-01-12 12:45:38] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8be2eda9e"}
+[2021-01-12 12:45:38] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8be2eda9e"}
+[2021-01-12 12:45:38] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8be2eda9e"}
+[2021-01-12 12:45:40] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/dashboard","remote_ip":"::1","correlation_id":"5ffd8be484139"}
+[2021-01-12 12:45:41] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8be5e771c"}
+[2021-01-12 12:45:41] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8be5e771c"}
+[2021-01-12 12:45:41] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8be5e771c"}
+[2021-01-12 12:45:44] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/dashboard","remote_ip":"::1","correlation_id":"5ffd8be85b52f"}
+[2021-01-12 12:45:45] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8be9d6c14"}
+[2021-01-12 12:45:45] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8be9d6c14"}
+[2021-01-12 12:45:45] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8be9d6c14"}
+[2021-01-12 12:45:50] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/dashboard","remote_ip":"::1","correlation_id":"5ffd8bee6bc78"}
+[2021-01-12 12:45:51] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8bef92dfc"}
+[2021-01-12 12:45:51] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8bef92dfc"}
+[2021-01-12 12:45:51] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8bef92dfc"}
+[2021-01-12 12:45:59] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/dashboard","remote_ip":"::1","correlation_id":"5ffd8bf75fd15"}
+[2021-01-12 12:46:00] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8bf887730"}
+[2021-01-12 12:46:00] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8bf887730"}
+[2021-01-12 12:46:00] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8bf887730"}
+[2021-01-12 12:47:05] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/dashboard","remote_ip":"::1","correlation_id":"5ffd8c39ab73f"}
+[2021-01-12 12:47:07] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8c3b5c076"}
+[2021-01-12 12:47:07] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8c3b5c076"}
+[2021-01-12 12:47:07] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8c3b5c076"}
+[2021-01-12 12:47:35] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/dashboard","remote_ip":"::1","correlation_id":"5ffd8c5734f97"}
+[2021-01-12 12:47:37] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8c59a1a4d"}
+[2021-01-12 12:47:37] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8c59a1a4d"}
+[2021-01-12 12:47:37] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8c59a1a4d"}
+[2021-01-12 12:47:56] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/dashboard","remote_ip":"::1","correlation_id":"5ffd8c6c7e1b6"}
+[2021-01-12 12:47:58] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8c6e02718"}
+[2021-01-12 12:47:58] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8c6e02718"}
+[2021-01-12 12:47:58] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8c6e02718"}
+[2021-01-12 12:49:05] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/dashboard","remote_ip":"::1","correlation_id":"5ffd8cb14427d"}
+[2021-01-12 12:49:06] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8cb29badb"}
+[2021-01-12 12:49:06] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8cb29badb"}
+[2021-01-12 12:49:06] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8cb29badb"}
+[2021-01-12 12:49:23] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/email/dashboard","remote_ip":"::1","correlation_id":"5ffd8cc332eca"}
+[2021-01-12 12:49:23] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8cc3ef2cb"}
+[2021-01-12 12:49:23] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8cc3ef2cb"}
+[2021-01-12 12:49:23] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8cc3ef2cb"}
+[2021-01-12 12:49:36] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/email/dashboard","remote_ip":"::1","correlation_id":"5ffd8cd0d6eda"}
+[2021-01-12 12:49:37] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8cd1bb23a"}
+[2021-01-12 12:49:37] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8cd1bb23a"}
+[2021-01-12 12:49:37] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8cd1bb23a"}
+[2021-01-12 12:49:44] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/dashboard","remote_ip":"::1","correlation_id":"5ffd8cd849e9e"}
+[2021-01-12 12:49:45] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8cd92477d"}
+[2021-01-12 12:49:45] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8cd92477d"}
+[2021-01-12 12:49:45] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8cd92477d"}
+[2021-01-12 12:50:19] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/dashboard","remote_ip":"::1","correlation_id":"5ffd8cfb90b4f"}
+[2021-01-12 12:50:30] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/dashboard","remote_ip":"::1","correlation_id":"5ffd8d06ed969"}
+[2021-01-12 12:50:32] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8d084754e"}
+[2021-01-12 12:50:32] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8d084754e"}
+[2021-01-12 12:50:32] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8d084754e"}
+[2021-01-12 12:51:21] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/dashboard","remote_ip":"::1","correlation_id":"5ffd8d39a6e75"}
+[2021-01-12 12:51:22] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8d3a933b5"}
+[2021-01-12 12:51:22] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8d3a933b5"}
+[2021-01-12 12:51:22] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8d3a933b5"}
+[2021-01-12 12:51:35] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/dashboard","remote_ip":"::1","correlation_id":"5ffd8d47be135"}
+[2021-01-12 12:51:36] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8d488f860"}
+[2021-01-12 12:51:36] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8d488f860"}
+[2021-01-12 12:51:36] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8d488f860"}
+[2021-01-12 12:51:43] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/dashboard","remote_ip":"::1","correlation_id":"5ffd8d4f16fd7"}
+[2021-01-12 12:51:44] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8d5045d29"}
+[2021-01-12 12:51:44] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8d5045d29"}
+[2021-01-12 12:51:44] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8d5045d29"}
+[2021-01-12 12:51:50] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/dashboard","remote_ip":"::1","correlation_id":"5ffd8d5620dc8"}
+[2021-01-12 12:51:50] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8d56e4942"}
+[2021-01-12 12:51:50] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8d56e4942"}
+[2021-01-12 12:51:50] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8d56e4942"}
+[2021-01-12 12:53:47] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/dashboard","remote_ip":"::1","correlation_id":"5ffd8dcbafa1d"}
+[2021-01-12 12:53:48] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8dccaa622"}
+[2021-01-12 12:53:48] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8dccaa622"}
+[2021-01-12 12:53:48] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8dccaa622"}
+[2021-01-12 12:54:32] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/dashboard","remote_ip":"::1","correlation_id":"5ffd8df870070"}
+[2021-01-12 12:54:33] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8df972e02"}
+[2021-01-12 12:54:33] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8df972e02"}
+[2021-01-12 12:54:33] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8df972e02"}
+[2021-01-12 12:54:58] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/dashboard","remote_ip":"::1","correlation_id":"5ffd8e122239f"}
+[2021-01-12 12:54:59] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8e132a8f3"}
+[2021-01-12 12:54:59] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8e132a8f3"}
+[2021-01-12 12:54:59] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8e132a8f3"}
+[2021-01-12 12:55:21] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/dashboard","remote_ip":"::1","correlation_id":"5ffd8e296d3ef"}
+[2021-01-12 12:55:22] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8e2a52907"}
+[2021-01-12 12:55:22] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8e2a52907"}
+[2021-01-12 12:55:22] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8e2a52907"}
+[2021-01-12 12:56:43] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/dashboard","remote_ip":"::1","correlation_id":"5ffd8e7b0d71a"}
+[2021-01-12 12:56:44] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8e7c2e11c"}
+[2021-01-12 12:56:44] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8e7c2e11c"}
+[2021-01-12 12:56:44] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8e7c2e11c"}
+[2021-01-12 12:56:50] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/PeopleDashboard.php","remote_ip":"::1","correlation_id":"5ffd8e82cb3a6"}
+[2021-01-12 12:56:51] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8e83d64b5"}
+[2021-01-12 12:56:51] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8e83d64b5"}
+[2021-01-12 12:56:51] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8e83d64b5"}
+[2021-01-12 12:57:01] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/GroupList.php","remote_ip":"::1","correlation_id":"5ffd8e8de3735"}
+[2021-01-12 12:57:02] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8e8ed13fd"}
+[2021-01-12 12:57:02] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8e8ed13fd"}
+[2021-01-12 12:57:02] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8e8ed13fd"}
+[2021-01-12 12:57:06] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/sundayschool/SundaySchoolDashboard.php","remote_ip":"::1","correlation_id":"5ffd8e92916a5"}
+[2021-01-12 12:57:07] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8e9389f7f"}
+[2021-01-12 12:57:07] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8e9389f7f"}
+[2021-01-12 12:57:07] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8e9389f7f"}
+[2021-01-12 12:57:08] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/email/dashboard","remote_ip":"::1","correlation_id":"5ffd8e942b8bc"}
+[2021-01-12 12:57:09] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8e9506668"}
+[2021-01-12 12:57:09] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8e9506668"}
+[2021-01-12 12:57:09] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8e9506668"}
+[2021-01-12 12:57:13] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/ListEvents.php","remote_ip":"::1","correlation_id":"5ffd8e999b5ac"}
+[2021-01-12 12:57:14] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8e9a50f0a"}
+[2021-01-12 12:57:14] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8e9a50f0a"}
+[2021-01-12 12:57:14] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8e9a50f0a"}
+[2021-01-12 12:57:24] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/PeopleDashboard.php","remote_ip":"::1","correlation_id":"5ffd8ea486331"}
+[2021-01-12 12:57:25] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8ea56bd23"}
+[2021-01-12 12:57:25] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8ea56bd23"}
+[2021-01-12 12:57:25] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8ea56bd23"}
+[2021-01-12 12:59:13] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/GroupList.php","remote_ip":"::1","correlation_id":"5ffd8f11816e7"}
+[2021-01-12 12:59:14] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8f1290ee4"}
+[2021-01-12 12:59:14] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8f1290ee4"}
+[2021-01-12 12:59:14] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8f1290ee4"}
+[2021-01-12 12:59:22] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/PeopleDashboard.php","remote_ip":"::1","correlation_id":"5ffd8f1a1605c"}
+[2021-01-12 12:59:23] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8f1b2189f"}
+[2021-01-12 12:59:23] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8f1b2189f"}
+[2021-01-12 12:59:23] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8f1b2189f"}
+[2021-01-12 13:01:08] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/calendar","remote_ip":"::1","correlation_id":"5ffd8f84ee55d"}
+[2021-01-12 13:01:11] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8f8707da5"}
+[2021-01-12 13:01:11] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8f8707da5"}
+[2021-01-12 13:01:11] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd8f8707da5"}
+[2021-01-12 13:04:30] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/PeopleDashboard.php","remote_ip":"::1","correlation_id":"5ffd904ee1f68"}
+[2021-01-12 13:04:31] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd904fea2fa"}
+[2021-01-12 13:04:31] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd904fea2fa"}
+[2021-01-12 13:04:31] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd904fea2fa"}
+[2021-01-12 13:04:50] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/PeopleDashboard.php","remote_ip":"::1","correlation_id":"5ffd906279e46"}
+[2021-01-12 13:04:51] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd90638dfea"}
+[2021-01-12 13:04:51] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd90638dfea"}
+[2021-01-12 13:04:51] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd90638dfea"}
+[2021-01-12 13:04:54] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/email/dashboard","remote_ip":"::1","correlation_id":"5ffd90663cd19"}
+[2021-01-12 13:04:55] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd906700651"}
+[2021-01-12 13:04:55] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd906700651"}
+[2021-01-12 13:04:55] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd906700651"}
+[2021-01-12 13:04:57] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/sundayschool/SundaySchoolDashboard.php","remote_ip":"::1","correlation_id":"5ffd906954d01"}
+[2021-01-12 13:04:58] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd906a051f6"}
+[2021-01-12 13:04:58] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd906a051f6"}
+[2021-01-12 13:04:58] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd906a051f6"}
+[2021-01-12 13:05:21] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/sundayschool/SundaySchoolDashboard.php","remote_ip":"::1","correlation_id":"5ffd908141b1f"}
+[2021-01-12 13:05:29] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/sundayschool/SundaySchoolDashboard.php","remote_ip":"::1","correlation_id":"5ffd90896eca4"}
+[2021-01-12 13:05:47] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/sundayschool/SundaySchoolDashboard.php","remote_ip":"::1","correlation_id":"5ffd909be897a"}
+[2021-01-12 13:05:58] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/sundayschool/SundaySchoolDashboard.php","remote_ip":"::1","correlation_id":"5ffd90a6160cd"}
+[2021-01-12 13:06:14] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/sundayschool/SundaySchoolDashboard.php","remote_ip":"::1","correlation_id":"5ffd90b632125"}
+[2021-01-12 13:06:15] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd90b70f313"}
+[2021-01-12 13:06:15] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd90b70f313"}
+[2021-01-12 13:06:15] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd90b70f313"}
+[2021-01-12 13:14:46] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/sundayschool/SundaySchoolDashboard.php","remote_ip":"::1","correlation_id":"5ffd92b6bf4d5"}
+[2021-01-12 13:14:47] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd92b7c6bec"}
+[2021-01-12 13:14:47] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd92b7c6bec"}
+[2021-01-12 13:14:47] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd92b7c6bec"}
+[2021-01-12 13:22:47] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/sundayschool/SundaySchoolDashboard.php","remote_ip":"::1","correlation_id":"5ffd94972e7b8"}
+[2021-01-12 13:22:48] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd949833b6c"}
+[2021-01-12 13:22:48] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd949833b6c"}
+[2021-01-12 13:22:48] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd949833b6c"}
+[2021-01-12 13:22:51] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/VolunteerOpportunityEditor.php","remote_ip":"::1","correlation_id":"5ffd949bb90ec"}
+[2021-01-12 13:22:52] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd949ca05bf"}
+[2021-01-12 13:22:52] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd949ca05bf"}
+[2021-01-12 13:22:52] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd949ca05bf"}
+[2021-01-12 13:22:54] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/PeopleDashboard.php","remote_ip":"::1","correlation_id":"5ffd949e3c7a9"}
+[2021-01-12 13:22:54] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd949ef2e9b"}
+[2021-01-12 13:22:54] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd949ef2e9b"}
+[2021-01-12 13:22:54] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd949ef2e9b"}
+[2021-01-12 13:24:21] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/PeopleDashboard.php","remote_ip":"::1","correlation_id":"5ffd94f572e0a"}
+[2021-01-12 13:24:22] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd94f662af6"}
+[2021-01-12 13:24:22] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd94f662af6"}
+[2021-01-12 13:24:22] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd94f662af6"}
+[2021-01-12 13:24:24] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/PeopleDashboard.php","remote_ip":"::1","correlation_id":"5ffd94f8b0726"}
+[2021-01-12 13:24:25] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd94f972640"}
+[2021-01-12 13:24:25] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd94f972640"}
+[2021-01-12 13:24:25] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd94f972640"}
+[2021-01-12 13:24:28] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/dashboard","remote_ip":"::1","correlation_id":"5ffd94fc6e738"}
+[2021-01-12 13:24:29] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd94fd2283f"}
+[2021-01-12 13:24:29] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd94fd2283f"}
+[2021-01-12 13:24:29] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd94fd2283f"}
+[2021-01-12 13:27:48] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/dashboard","remote_ip":"::1","correlation_id":"5ffd95c40a56d"}
+[2021-01-12 13:27:49] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd95c56c04c"}
+[2021-01-12 13:27:49] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd95c56c04c"}
+[2021-01-12 13:27:49] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd95c56c04c"}
+[2021-01-12 13:37:24] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/dashboard","remote_ip":"::1","correlation_id":"5ffd9804ac7ca"}
+[2021-01-12 13:37:25] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd9805e1cf9"}
+[2021-01-12 13:37:25] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd9805e1cf9"}
+[2021-01-12 13:37:25] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd9805e1cf9"}
+[2021-01-12 13:37:32] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/dashboard","remote_ip":"::1","correlation_id":"5ffd980c2fd17"}
+[2021-01-12 13:37:33] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd980d12752"}
+[2021-01-12 13:37:33] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd980d12752"}
+[2021-01-12 13:37:33] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd980d12752"}
+[2021-01-12 13:37:41] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/dashboard","remote_ip":"::1","correlation_id":"5ffd98150c784"}
+[2021-01-12 13:37:41] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd9815d9743"}
+[2021-01-12 13:37:41] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd9815d9743"}
+[2021-01-12 13:37:41] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd9815d9743"}
+[2021-01-12 13:37:45] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/dashboard","remote_ip":"::1","correlation_id":"5ffd9819bf282"}
+[2021-01-12 13:37:46] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd981a902f6"}
+[2021-01-12 13:37:46] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd981a902f6"}
+[2021-01-12 13:37:46] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd981a902f6"}
+[2021-01-12 13:43:49] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/email/dashboard","remote_ip":"::1","correlation_id":"5ffd9985ecb02"}
+[2021-01-12 13:43:50] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd9986ed8dc"}
+[2021-01-12 13:43:50] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd9986ed8dc"}
+[2021-01-12 13:43:50] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd9986ed8dc"}
+[2021-01-12 13:43:52] defaultLogger.INFO: Next upgrade step for 4.2.0 is : 4.2.3 [] {"url":"/churchcrm-4.2/v2/dashboard","remote_ip":"::1","correlation_id":"5ffd9988b6520"}
+[2021-01-12 13:43:53] defaultLogger.INFO: Starting background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd99898940b"}
+[2021-01-12 13:43:53] defaultLogger.INFO: Not starting application integrity check.  Last application integrity check run: 20210107-120919 [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd99898940b"}
+[2021-01-12 13:43:53] defaultLogger.INFO: Finished background job processing [] {"url":"/churchcrm-4.2/api/background/timerjobs","remote_ip":"::1","correlation_id":"5ffd99898940b"}
