@@ -58,10 +58,11 @@ class MenuRenderer
                     }
                 } 
             } ?> 
-            </ul>
+            </ul> <!-- replace this block above with a different menu -->
         </li>
         <?php 
-    }
+    } 
+ 
 
     private static function renderMenuCounters(MenuItem $menuItem)
     {

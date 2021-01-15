@@ -56,7 +56,7 @@ $MenuFirst = 1;
     <!-- Logo -->
     <a href="<?= SystemURLs::getRootPath() ?>/Menu.php" class="logo">
       <!-- mini logo for sidebar mini 50x50 pixels -->
-      <span class="logo-mini"><b>KCC</b></span>
+      <span class="logo-mini"><img src = "Images/church_letterhead.png"></span>
       <!-- logo for regular state and mobile devices -->
       <?php
       $headerHTML = '<b>Church</b>CRM';

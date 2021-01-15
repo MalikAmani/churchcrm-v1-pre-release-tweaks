@@ -12,8 +12,8 @@ require SystemURLs::getDocumentRoot() . '/Include/HeaderNotLoggedIn.php';
 <div class="login-box" id="Login">
     <div class="login-logo">
     
-   <!-- <a href="https://www.karencommunitychurch.org/"><img src="church_letterhead.png" /></a> 
-        <b>Logo-goes-here</b> -->
+    <a href = "http://www.google.com"> <img src="../Images/church_letterhead.png" >  </a>
+        <!-- <b>Logo-goes-here</b> -->
     </div>
 
     <!-- /.login-logo -->
